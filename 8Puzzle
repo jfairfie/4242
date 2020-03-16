@@ -1,0 +1,10 @@
+8puzzle.py is a solution for this problem: 
+
+8 Puzzle Problem (A* search algorithm is required)
+
+The 8 puzzle consists of eight numbered, movable tiles set in a 3x3 frame. One cell of the frame is
+always empty thus making it possible to move an adjacent numbered tile into the empty cell. Such a
+puzzle is illustrated in following diagram.
+
+You should consider about the solvability of 8-puzzle instance.
+The half of randomized input can not be a goal state.
